@@ -4,7 +4,7 @@
 
 - 📔 **Prashanth Kampli**
 
-- 👨‍💻 Portfolio [bento.me/prashanthkampli](bento.me/prashanthkampli)
+- 👨‍💻 Portfolio [bento.me/prashanthkampli](https://bento.me/prashanthkampli)
 
 - 💬 Ask me about **reactJS, Figma and Python**
 
